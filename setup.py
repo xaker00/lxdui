@@ -28,8 +28,8 @@ setup(
    include_package_data=True,
    zip_safe=False,
    install_requires=[
-       'Click==6.7',
-       'Flask==1.0',
+       'Click==8.0',
+       'Flask==2.1.2',
        'flask-login==0.4.1',
        'flask_jwt==0.3.2',
        'jsonschema==2.6.0',
